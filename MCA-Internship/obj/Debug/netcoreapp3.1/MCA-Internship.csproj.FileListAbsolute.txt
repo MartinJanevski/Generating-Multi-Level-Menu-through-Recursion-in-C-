@@ -1,0 +1,13 @@
+C:\Users\Martin\source\repos\MCA-Internship\MCA-Internship\bin\Debug\netcoreapp3.1\MCA-Internship.exe
+C:\Users\Martin\source\repos\MCA-Internship\MCA-Internship\bin\Debug\netcoreapp3.1\MCA-Internship.deps.json
+C:\Users\Martin\source\repos\MCA-Internship\MCA-Internship\bin\Debug\netcoreapp3.1\MCA-Internship.runtimeconfig.json
+C:\Users\Martin\source\repos\MCA-Internship\MCA-Internship\bin\Debug\netcoreapp3.1\MCA-Internship.runtimeconfig.dev.json
+C:\Users\Martin\source\repos\MCA-Internship\MCA-Internship\bin\Debug\netcoreapp3.1\MCA-Internship.dll
+C:\Users\Martin\source\repos\MCA-Internship\MCA-Internship\bin\Debug\netcoreapp3.1\MCA-Internship.pdb
+C:\Users\Martin\source\repos\MCA-Internship\MCA-Internship\obj\Debug\netcoreapp3.1\MCA-Internship.csprojAssemblyReference.cache
+C:\Users\Martin\source\repos\MCA-Internship\MCA-Internship\obj\Debug\netcoreapp3.1\MCA-Internship.AssemblyInfoInputs.cache
+C:\Users\Martin\source\repos\MCA-Internship\MCA-Internship\obj\Debug\netcoreapp3.1\MCA-Internship.AssemblyInfo.cs
+C:\Users\Martin\source\repos\MCA-Internship\MCA-Internship\obj\Debug\netcoreapp3.1\MCA-Internship.dll
+C:\Users\Martin\source\repos\MCA-Internship\MCA-Internship\obj\Debug\netcoreapp3.1\MCA-Internship.pdb
+C:\Users\Martin\source\repos\MCA-Internship\MCA-Internship\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\Martin\source\repos\MCA-Internship\MCA-Internship\obj\Debug\netcoreapp3.1\MCA-Internship.csproj.CopyComplete
